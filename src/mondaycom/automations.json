@@ -1,0 +1,99 @@
+{
+  "automations": [
+    {
+      "id": 55,
+      "accountId": 1,
+      "userId": 2,
+      "config": {
+        "0": {
+          "columnId": {
+            "boardId": 999,
+            "columnId": "status",
+            "columnType": "color",
+            "invalid": false
+          },
+          "statusColumnValue": {
+            "index": 0,
+            "invalid": false
+          }
+        },
+        "1": {
+          "columnId": {
+            "boardId": 999,
+            "columnId": "status",
+            "columnType": "color",
+            "invalid": false
+          },
+          "statusColumnValue": {
+            "index": 2,
+            "invalid": false
+          }
+        }
+      },
+      "autoConfigValues": null,
+      "recipeId": 91218723,
+      "RecipeModelId": 91218723,
+      "recipeKind": "custom",
+      "description": null,
+      "boardId": 999,
+      "active": true,
+      "actionsCount": 0,
+      "metadata": null,
+      "source": null,
+      "state": "active",
+      "noticeMessage": null,
+      "configUpdatedAt": "2025-07-30T19:02:07.617Z",
+      "WorkflowEntityId": null,
+      "importance": 25,
+      "createdAt": "2025-07-30T18:46:14.963Z",
+      "updatedAt": "2025-07-31T12:38:12.799Z"
+    },
+    {
+      "id": 66,
+      "accountId": 1,
+      "userId": 2,
+      "config": {
+        "0": {
+          "columnId": {
+            "boardId": 999,
+            "columnId": "status",
+            "columnType": "color",
+            "invalid": false
+          },
+          "statusColumnValue": {
+            "index": 2,
+            "invalid": false
+          }
+        },
+        "1": {
+          "columnId": {
+            "boardId": 999,
+            "columnId": "status",
+            "columnType": "color",
+            "invalid": false
+          },
+          "statusColumnValue": {
+            "index": 0,
+            "invalid": false
+          }
+        }
+      },
+      "autoConfigValues": null,
+      "recipeId": 91218935,
+      "RecipeModelId": 91218935,
+      "recipeKind": "custom",
+      "description": null,
+      "boardId": 999,
+      "active": true,
+      "actionsCount": 0,
+      "metadata": null,
+      "source": null,
+      "state": "active",
+      "noticeMessage": null,
+      "configUpdatedAt": "2025-07-30T19:02:24.608Z",
+      "WorkflowEntityId": null,
+      "importance": 25,
+      "createdAt": "2025-07-30T19:02:16.894Z",
+      "updatedAt": "2025-07-30T22:21:08.657Z"
+    }]
+}
